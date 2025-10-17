@@ -242,4 +242,3 @@ const Footer = () => {
 export default Footer;
 
 
-hell
